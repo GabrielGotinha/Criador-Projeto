@@ -35,14 +35,7 @@ function Projects (){
     }, [])
 
 
-    function removeProject (id){
     
-        fetch(`http://localhost:5000/projects/${id}`, {
-            method: 
-        }
-        
-        )
-    }
 
     return (
         <div className={styles.projectcontainer}>
