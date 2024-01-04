@@ -12,9 +12,9 @@ function Navbar(){
         </Link>
         <ul className={styles.list}>
             <li class={styles.item}><Link to='/'>Home</Link> </li>
-        <li className={styles.item}><Link to='/Projects'>Projects</Link> </li>       
-        <li className={styles.item}><Link to='/newproject'>NewProject</Link></li>
-        <li className={styles.item}><Link to='/contact'>Contact</Link> </li>
+        <li className={styles.item}><Link to='/Projects'>Projetos</Link> </li>       
+        <li className={styles.item}><Link to='/newproject'>Novo Projeto</Link></li>
+        <li className={styles.item}><Link to='/contact'>Contato</Link> </li>
         </ul>
         </Container>
       </nav>

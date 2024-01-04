@@ -1,5 +1,5 @@
 .container {
-    width: 1200px;
+    width: 900px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -7,7 +7,7 @@
 }
 
 .min-height{
-    min-height: 75vh;
+    min-height: 75%;
 
 }
 
